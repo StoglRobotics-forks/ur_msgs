@@ -1,0 +1,11 @@
+float64[] all_arguments  # if set the arguments are set from this array in order as they are defined in controllers.yaml file
+
+# Definition of explicit individual arguments
+float64 drill_pos_x_replace
+float64 drill_pos_y_replace
+float64 drill_pos_z_replace
+float64 drill_depth_replace
+
+---
+
+bool success
